@@ -7,4 +7,4 @@
 |indi_book|인디펍 플랫폼 독립서적 2085건|
 
 >>코드 Step
-> Step 1.
+>Step 1.
