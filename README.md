@@ -6,6 +6,5 @@
 |popular_loan_book|도서관 정보나루 7월 인기대출도서 상위 5권(장르 및 null 값 전처리 적용)|
 |indi_book|인디펍 플랫폼 독립서적 2085건|
 
-
->> 코드 Step
+>>코드 Step
 > Step 1.
