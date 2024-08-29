@@ -9,7 +9,7 @@
 ## 프로젝트 목표 
 ### 독립 서적 추천을 활용한 콘텐츠 제공으로 독립 서적의 정보 접근성을 높이고, 독립 서적 시장 활성화에 기여
 
-![이미지](https://github.com/user-attachments/assets/67295b39-07b0-4c21-be53-d572424f994d)
+![이미지](https://github.com/pot1223/library_indi_book_recommender/issues/3#issue-2493498868)
 
 
 > 추천코드 구현Step
